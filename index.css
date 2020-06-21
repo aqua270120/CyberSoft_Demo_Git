@@ -11,4 +11,5 @@ body {
 .header {
     width: 800%;
     height: 100%;
+    border-radius: 1;
 }
